@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Chrome(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="https://www.urbanladder.com/"/>
+    <groups>
+      <run>
+        <include name="sanity"/>
+        <include name="regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testCases.TC_07_confirmDetails">
+        <methods>
+          <include name="setup"/>
+          <include name="confirm_the_details_in_confirm_details_section"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testCases.TC_07_confirmDetails -->
+    </classes>
+  </test> <!-- Chrome(failed) -->
+</suite> <!-- Failed suite [Suite] -->

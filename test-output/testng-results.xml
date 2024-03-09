@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="12" total="30" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-09T17:20:00 IST" name="Suite" finished-at="2024-03-09T17:22:03 IST" duration-ms="123169">
+    <groups>
+      <group name="regression">
+        <method signature="TC_01_itemToBeSearched.closePopUp()[pri:3, instance:testCases.TC_01_itemToBeSearched@2b662a77]" name="closePopUp" class="testCases.TC_01_itemToBeSearched"/>
+        <method signature="TC_01_itemToBeSearched.getItemName()[pri:2, instance:testCases.TC_01_itemToBeSearched@2b662a77]" name="getItemName" class="testCases.TC_01_itemToBeSearched"/>
+        <method signature="TC_01_itemToBeSearched.openBrowser()[pri:1, instance:testCases.TC_01_itemToBeSearched@2b662a77]" name="openBrowser" class="testCases.TC_01_itemToBeSearched"/>
+        <method signature="TC_02_conditions.chooses_the_category_kid_bookshelves()[pri:5, instance:testCases.TC_02_conditions@49139829]" name="chooses_the_category_kid_bookshelves" class="testCases.TC_02_conditions"/>
+        <method signature="TC_02_conditions.exclude_out_of_stock()[pri:6, instance:testCases.TC_02_conditions@49139829]" name="exclude_out_of_stock" class="testCases.TC_02_conditions"/>
+        <method signature="TC_02_conditions.select_the_price_range_below_fifteen_thousand()[pri:4, instance:testCases.TC_02_conditions@49139829]" name="select_the_price_range_below_fifteen_thousand" class="testCases.TC_02_conditions"/>
+        <method signature="TC_02_conditions.sorts_by_price_high_to_low()[pri:7, instance:testCases.TC_02_conditions@49139829]" name="sorts_by_price_high_to_low" class="testCases.TC_02_conditions"/>
+        <method signature="TC_03_getItems.fetch_the_top_three_items_print_all_details_in_console_output()[pri:8, instance:testCases.TC_03_getItems@4efbca5a]" name="fetch_the_top_three_items_print_all_details_in_console_output" class="testCases.TC_03_getItems"/>
+        <method signature="TC_04_living.retrieve_all_items_under_living_storage_sub_menu_and_print_the_same_on_the_console()[pri:10, instance:testCases.TC_04_living@1b7cc17c]" name="retrieve_all_items_under_living_storage_sub_menu_and_print_the_same_on_the_console" class="testCases.TC_04_living"/>
+        <method signature="TC_04_living.user_clicks_on_the_living_menu()[pri:9, instance:testCases.TC_04_living@1b7cc17c]" name="user_clicks_on_the_living_menu" class="testCases.TC_04_living"/>
+        <method signature="TC_05_giftCard.chooses_birthday_or_anniversary()[pri:12, instance:testCases.TC_05_giftCard@59662a0b]" name="chooses_birthday_or_anniversary" class="testCases.TC_05_giftCard"/>
+        <method signature="TC_05_giftCard.enters_the_valid_amount_month_and_date()[pri:13, instance:testCases.TC_05_giftCard@59662a0b]" name="enters_the_valid_amount_month_and_date" class="testCases.TC_05_giftCard"/>
+        <method signature="TC_05_giftCard.fills_to_from_details()[pri:15, instance:testCases.TC_05_giftCard@59662a0b]" name="fills_to_from_details" class="testCases.TC_05_giftCard"/>
+        <method signature="TC_06_validation.the_id_is_not_valid_and_user_gives_correct_email_id()[pri:17, instance:testCases.TC_06_validation@77fbd92c]" name="the_id_is_not_valid_and_user_gives_correct_email_id" class="testCases.TC_06_validation"/>
+        <method signature="TC_06_validation.validate_the_email_id()[pri:16, instance:testCases.TC_06_validation@77fbd92c]" name="validate_the_email_id" class="testCases.TC_06_validation"/>
+        <method signature="TC_07_confirmDetails.confirm_the_details_in_confirm_details_section()[pri:18, instance:testCases.TC_07_confirmDetails@67c27493]" name="confirm_the_details_in_confirm_details_section" class="testCases.TC_07_confirmDetails"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="TC_01_itemToBeSearched.openBrowser()[pri:1, instance:testCases.TC_01_itemToBeSearched@2b662a77]" name="openBrowser" class="testCases.TC_01_itemToBeSearched"/>
+        <method signature="TC_05_giftCard.clicks_on_the_next_button()[pri:14, instance:testCases.TC_05_giftCard@59662a0b]" name="clicks_on_the_next_button" class="testCases.TC_05_giftCard"/>
+        <method signature="TC_05_giftCard.fills_to_from_details()[pri:15, instance:testCases.TC_05_giftCard@59662a0b]" name="fills_to_from_details" class="testCases.TC_05_giftCard"/>
+        <method signature="TC_05_giftCard.user_clicks_on_gift_cards()[pri:11, instance:testCases.TC_05_giftCard@59662a0b]" name="user_clicks_on_gift_cards" class="testCases.TC_05_giftCard"/>
+        <method signature="TC_07_confirmDetails.confirm_the_details_in_confirm_details_section()[pri:18, instance:testCases.TC_07_confirmDetails@67c27493]" name="confirm_the_details_in_confirm_details_section" class="testCases.TC_07_confirmDetails"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2024-03-09T17:20:00 IST" name="Chrome" finished-at="2024-03-09T17:22:03 IST" duration-ms="123169">
+      <class name="testCases.TC_02_conditions">
+        <test-method signature="select_the_price_range_below_fifteen_thousand()[pri:4, instance:testCases.TC_02_conditions@49139829]" started-at="2024-03-09T17:20:27 IST" name="select_the_price_range_below_fifteen_thousand" finished-at="2024-03-09T17:20:31 IST" duration-ms="4398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_the_price_range_below_fifteen_thousand -->
+        <test-method signature="chooses_the_category_kid_bookshelves()[pri:5, instance:testCases.TC_02_conditions@49139829]" started-at="2024-03-09T17:20:32 IST" name="chooses_the_category_kid_bookshelves" finished-at="2024-03-09T17:20:35 IST" duration-ms="3321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooses_the_category_kid_bookshelves -->
+        <test-method signature="exclude_out_of_stock()[pri:6, instance:testCases.TC_02_conditions@49139829]" started-at="2024-03-09T17:20:35 IST" name="exclude_out_of_stock" finished-at="2024-03-09T17:20:38 IST" duration-ms="3169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exclude_out_of_stock -->
+        <test-method signature="sorts_by_price_high_to_low()[pri:7, instance:testCases.TC_02_conditions@49139829]" started-at="2024-03-09T17:20:39 IST" name="sorts_by_price_high_to_low" finished-at="2024-03-09T17:20:42 IST" duration-ms="3376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sorts_by_price_high_to_low -->
+      </class> <!-- testCases.TC_02_conditions -->
+      <class name="testCases.TC_05_giftCard">
+        <test-method signature="user_clicks_on_gift_cards()[pri:11, instance:testCases.TC_05_giftCard@59662a0b]" started-at="2024-03-09T17:20:56 IST" name="user_clicks_on_gift_cards" finished-at="2024-03-09T17:21:05 IST" duration-ms="9520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_clicks_on_gift_cards -->
+        <test-method signature="chooses_birthday_or_anniversary()[pri:12, instance:testCases.TC_05_giftCard@59662a0b]" started-at="2024-03-09T17:21:06 IST" name="chooses_birthday_or_anniversary" finished-at="2024-03-09T17:21:11 IST" duration-ms="5272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooses_birthday_or_anniversary -->
+        <test-method signature="enters_the_valid_amount_month_and_date()[pri:13, instance:testCases.TC_05_giftCard@59662a0b]" started-at="2024-03-09T17:21:12 IST" name="enters_the_valid_amount_month_and_date" finished-at="2024-03-09T17:21:16 IST" duration-ms="4527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enters_the_valid_amount_month_and_date -->
+        <test-method signature="clicks_on_the_next_button()[pri:14, instance:testCases.TC_05_giftCard@59662a0b]" started-at="2024-03-09T17:21:17 IST" name="clicks_on_the_next_button" finished-at="2024-03-09T17:21:20 IST" duration-ms="3223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicks_on_the_next_button -->
+        <test-method signature="fills_to_from_details()[pri:15, instance:testCases.TC_05_giftCard@59662a0b]" started-at="2024-03-09T17:21:20 IST" name="fills_to_from_details" finished-at="2024-03-09T17:21:28 IST" duration-ms="8024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fills_to_from_details -->
+      </class> <!-- testCases.TC_05_giftCard -->
+      <class name="testCases.TC_06_validation">
+        <test-method signature="validate_the_email_id()[pri:16, instance:testCases.TC_06_validation@77fbd92c]" started-at="2024-03-09T17:21:29 IST" name="validate_the_email_id" finished-at="2024-03-09T17:21:41 IST" duration-ms="12016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_the_email_id -->
+        <test-method signature="the_id_is_not_valid_and_user_gives_correct_email_id()[pri:17, instance:testCases.TC_06_validation@77fbd92c]" started-at="2024-03-09T17:21:41 IST" name="the_id_is_not_valid_and_user_gives_correct_email_id" finished-at="2024-03-09T17:21:55 IST" duration-ms="14061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- the_id_is_not_valid_and_user_gives_correct_email_id -->
+      </class> <!-- testCases.TC_06_validation -->
+      <class name="testCases.TC_03_getItems">
+        <test-method signature="fetch_the_top_three_items_print_all_details_in_console_output()[pri:8, instance:testCases.TC_03_getItems@4efbca5a]" started-at="2024-03-09T17:20:43 IST" name="fetch_the_top_three_items_print_all_details_in_console_output" finished-at="2024-03-09T17:20:47 IST" duration-ms="4161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetch_the_top_three_items_print_all_details_in_console_output -->
+      </class> <!-- testCases.TC_03_getItems -->
+      <class name="testCases.TC_04_living">
+        <test-method signature="user_clicks_on_the_living_menu()[pri:9, instance:testCases.TC_04_living@1b7cc17c]" started-at="2024-03-09T17:20:47 IST" name="user_clicks_on_the_living_menu" finished-at="2024-03-09T17:20:48 IST" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_clicks_on_the_living_menu -->
+        <test-method signature="retrieve_all_items_under_living_storage_sub_menu_and_print_the_same_on_the_console()[pri:10, instance:testCases.TC_04_living@1b7cc17c]" started-at="2024-03-09T17:20:48 IST" name="retrieve_all_items_under_living_storage_sub_menu_and_print_the_same_on_the_console" finished-at="2024-03-09T17:20:55 IST" duration-ms="6893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- retrieve_all_items_under_living_storage_sub_menu_and_print_the_same_on_the_console -->
+      </class> <!-- testCases.TC_04_living -->
+      <class name="testCases.TC_07_confirmDetails">
+        <test-method signature="confirm_the_details_in_confirm_details_section()[pri:18, instance:testCases.TC_07_confirmDetails@67c27493]" started-at="2024-03-09T17:21:56 IST" name="confirm_the_details_in_confirm_details_section" finished-at="2024-03-09T17:22:00 IST" duration-ms="4403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirm_the_details_in_confirm_details_section -->
+      </class> <!-- testCases.TC_07_confirmDetails -->
+      <class name="testCases.TC_01_itemToBeSearched">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_01_itemToBeSearched@2b662a77]" started-at="2024-03-09T17:20:01 IST" name="setup" finished-at="2024-03-09T17:20:12 IST" duration-ms="11154" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.urbanladder.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="openBrowser()[pri:1, instance:testCases.TC_01_itemToBeSearched@2b662a77]" started-at="2024-03-09T17:20:12 IST" name="openBrowser" finished-at="2024-03-09T17:20:19 IST" duration-ms="6773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="getItemName()[pri:2, instance:testCases.TC_01_itemToBeSearched@2b662a77]" started-at="2024-03-09T17:20:19 IST" name="getItemName" finished-at="2024-03-09T17:20:23 IST" duration-ms="3825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getItemName -->
+        <test-method signature="closePopUp()[pri:3, instance:testCases.TC_01_itemToBeSearched@2b662a77]" started-at="2024-03-09T17:20:24 IST" name="closePopUp" finished-at="2024-03-09T17:20:26 IST" duration-ms="2291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePopUp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCases.TC_01_itemToBeSearched@2b662a77]" started-at="2024-03-09T17:22:01 IST" name="closeBrowser" finished-at="2024-03-09T17:22:03 IST" duration-ms="1929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCases.TC_01_itemToBeSearched -->
+    </test> <!-- Chrome -->
+  </suite> <!-- Suite -->
+</testng-results>

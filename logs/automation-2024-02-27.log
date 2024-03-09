@@ -1,0 +1,60 @@
+17:05:34.312 [main] INFO  factory.BaseClass - user clicks on the living menu
+17:05:37.658 [main] INFO  factory.BaseClass - retrieve all items under Living Storage sub-menu and print the same on the console
+17:06:15.006 [main] INFO  factory.BaseClass - user clicks on gift cards
+17:06:20.167 [main] INFO  factory.BaseClass - user chooses Birthday or Anniversary
+17:06:24.005 [main] INFO  factory.BaseClass - user enters the valid amount, month and date
+17:06:27.151 [main] INFO  factory.BaseClass - user clicks on the next button
+17:06:32.425 [main] INFO  factory.BaseClass - user fills To & From details
+17:06:37.480 [main] INFO  factory.BaseClass - validate the email id
+17:06:46.115 [main] INFO  factory.BaseClass - the id is not valid and user gives correct email id
+17:06:49.776 [main] INFO  factory.BaseClass - validate the details in Confirm Details section
+17:06:49.778 [main] INFO  factory.BaseClass - close the browser
+17:22:23.429 [main] INFO  factory.BaseClass - user opens urbanladder website
+17:24:00.770 [main] INFO  factory.BaseClass - user opens urbanladder website
+17:25:48.875 [main] INFO  factory.BaseClass - user opens urbanladder website
+17:26:29.926 [main] INFO  factory.BaseClass - user searches for Bookshelves
+17:26:34.116 [main] INFO  factory.BaseClass - user selects the price range below fifteen thousand
+17:26:37.494 [main] INFO  factory.BaseClass - user chooses the category Kid Bookshelves
+17:26:40.686 [main] INFO  factory.BaseClass - exclude out of stock
+17:26:44.489 [main] INFO  factory.BaseClass - sorts by price High to Low
+17:26:47.732 [main] INFO  factory.BaseClass - fetch the top three items & print all details in console output
+17:27:00.085 [main] INFO  factory.BaseClass - user opens urbanladder website
+17:27:00.317 [main] INFO  factory.BaseClass - user clicks on the living menu
+17:27:03.665 [main] INFO  factory.BaseClass - retrieve all items under Living Storage sub-menu and print the same on the console
+17:27:13.726 [main] INFO  factory.BaseClass - user opens urbanladder website
+17:27:49.670 [main] INFO  factory.BaseClass - user clicks on gift cards
+17:27:54.822 [main] INFO  factory.BaseClass - user chooses Birthday or Anniversary
+17:27:59.229 [main] INFO  factory.BaseClass - user enters the valid amount, month and date
+17:28:02.503 [main] INFO  factory.BaseClass - user clicks on the next button
+17:28:08.618 [main] INFO  factory.BaseClass - user fills To & From details
+17:28:13.714 [main] INFO  factory.BaseClass - validate the email id
+17:28:22.431 [main] INFO  factory.BaseClass - the id is not valid and user gives correct email id
+17:28:26.405 [main] INFO  factory.BaseClass - validate the details in Confirm Details section
+17:28:26.407 [main] INFO  factory.BaseClass - close the browser
+10:44:04.891 [main] INFO  factory.BaseClass - user opens urbanladder website
+10:44:15.086 [main] INFO  factory.BaseClass - user searches for Bookshelves
+10:44:19.431 [main] INFO  factory.BaseClass - user selects the price range below fifteen thousand
+10:44:22.849 [main] INFO  factory.BaseClass - user chooses the category Kid Bookshelves
+10:44:41.158 [main] INFO  factory.BaseClass - exclude out of stock
+10:45:29.697 [main] INFO  factory.BaseClass - user opens urbanladder website
+10:45:38.842 [main] INFO  factory.BaseClass - user searches for Bookshelves
+10:45:43.128 [main] INFO  factory.BaseClass - user selects the price range below fifteen thousand
+10:45:46.540 [main] INFO  factory.BaseClass - user chooses the category Kid Bookshelves
+10:45:49.725 [main] INFO  factory.BaseClass - exclude out of stock
+10:45:53.522 [main] INFO  factory.BaseClass - sorts by price High to Low
+10:45:56.726 [main] INFO  factory.BaseClass - fetch the top three items & print all details in console output
+10:46:07.192 [main] INFO  factory.BaseClass - user opens urbanladder website
+10:46:07.693 [main] INFO  factory.BaseClass - user clicks on the living menu
+10:46:11.069 [main] INFO  factory.BaseClass - retrieve all items under Living Storage sub-menu and print the same on the console
+10:46:20.700 [main] INFO  factory.BaseClass - user opens urbanladder website
+10:46:48.925 [main] INFO  factory.BaseClass - user clicks on gift cards
+10:46:54.071 [main] INFO  factory.BaseClass - user chooses Birthday or Anniversary
+10:46:58.015 [main] INFO  factory.BaseClass - user enters the valid amount, month and date
+10:47:01.220 [main] INFO  factory.BaseClass - user clicks on the next button
+10:47:06.745 [main] INFO  factory.BaseClass - user fills To & From details
+10:47:11.808 [main] INFO  factory.BaseClass - validate the email id
+10:47:20.445 [main] INFO  factory.BaseClass - the id is not valid and user gives correct email id
+10:47:24.051 [main] INFO  factory.BaseClass - validate the details in Confirm Details section
+10:47:24.052 [main] INFO  factory.BaseClass - close the browser
+15:50:21.097 [main] INFO  factory.BaseClass - user opens urbanladder website
+15:50:30.528 [main] INFO  factory.BaseClass - user searches for Bookshelves
